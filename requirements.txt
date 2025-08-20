@@ -1,7 +1,5 @@
 streamlit==1.26.0
-pandas==2.1.0
-numpy==1.26.0
-beautifulsoup4==4.12.2
-requests==2.31.0
-regex==2025.8.1
-pyyaml==6.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
+rich==14.1.0
